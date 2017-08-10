@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ManList</string>
+    <string name="add">Добавить</string>
+    <string name="date_of_birth">Дата рождения</string>
+    <string name="exit">Выход</string>
+    <string name="last_name">Фамилия</string>
+    <string name="phone_number">Телефонный номер</string>
+    <string name="some_fields_are_empty">Некоторые поля пусты</string>
+</resources>
